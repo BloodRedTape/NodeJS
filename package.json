@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/BloodRedTape/NodeJS/issues"
   },
-  "homepage": "https://github.com/BloodRedTape/NodeJS#readme"
+  "homepage": "https://github.com/BloodRedTape/NodeJS#readme",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-google": "^0.14.0"
+  }
 }
